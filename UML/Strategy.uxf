@@ -34,7 +34,6 @@
 -mTitle : string
 -mPrice : double
 -mUsed : bool
--mDiscounts : vector&lt;Discount *&gt;
 --
 +Book(string, double, bool)
 +getPrice() const : double
