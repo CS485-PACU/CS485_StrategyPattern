@@ -52,7 +52,6 @@
     <panel_attributes>Discount
 --
 --
-+Discount()
 
 +applyDiscount(const Book&amp;) const : double
 </panel_attributes>
