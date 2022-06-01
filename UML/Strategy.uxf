@@ -53,7 +53,7 @@
 --
 --
 
-+applyDiscount(const Book&amp;) const : double
++applyDiscount(const Book&amp;) : double
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -71,7 +71,7 @@
 --
 +UsedBooksDiscount(double)
 
-+applyDiscount(const Book&amp;) const : double
++applyDiscount(const Book&amp;) : double
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -88,7 +88,7 @@
 --
 +EmployeeDiscount()
 
-+applyDiscount(const Book&amp;) const : double
++applyDiscount(const Book&amp;)  : double
 </panel_attributes>
     <additional_attributes/>
   </element>
